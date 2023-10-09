@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Jeroen Burgerhout, a 44-year-old Microsoft enthusiast with a deep-seated passion for technology. 
+
+In my professional life, I serve as a Microsoft 365 Consultant and Microsoft Certified Trainer, based in the beautiful town of Nieuwkoop, Netherlands. I have over 20 years of experience primarily with Microsoft products, which allows me to bring a wealth of knowledge to my roles. I specialize in Entra ID, Microsoft Intune, Microsoft 365, Windows client, MDM, and MAM. My career has led me to work on Modern Workplace projects across a multitude of different industries. I consider myself fortunate to have the opportunity to help businesses leverage the power of Microsoft's suite of products to improve their operations. 
+
+Beyond my regular workdays, I take pride in giving back to the tech community. I host a bi-weekly show, WorkplaceDudes, where I share insights and trends related to the modern workplace. I also co-host the Microsoft 365 Modern Management Meetup, a platform that brings together like-minded professionals to discuss the latest in Microsoft 365 management. I'm an active participant in Experts Live Netherlands, where I sit on the Program Panel and serve as the Speaker Manager. 
+In 2020, I embarked on a new journey as an author. My first book, Microsoft Exam MD-100 Windows 10 Certification Guide, is now available. Writing this guide was a fulfilling experience as it allowed me to share my knowledge on a larger scale. If you'd like to connect, don't hesitate to reach out. 
+
+I'm always open to new opportunities and collaborations.
+
 <!--
 **BurgerhoutJ/burgerhoutj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
