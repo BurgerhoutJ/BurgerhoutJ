@@ -1,26 +1,16 @@
 ### Hi there 👋
 
-I'm Jeroen Burgerhout, a 44-year-old Microsoft enthusiast with a deep-seated passion for technology. 
+Hey there, 
 
-In my professional life, I serve as a Microsoft 365 Consultant and Microsoft Certified Trainer, based in the beautiful town of Nieuwkoop, Netherlands. I have over 20 years of experience primarily with Microsoft products, which allows me to bring a wealth of knowledge to my roles. I specialize in Entra ID, Microsoft Intune, Microsoft 365, Windows client, MDM, and MAM. My career has led me to work on Modern Workplace projects across a multitude of different industries. I consider myself fortunate to have the opportunity to help businesses leverage the power of Microsoft's suite of products to improve their operations. 
+I'm Jeroen, and working with Microsoft software since NT 4.0 and Windows 95. So, yeah… that old. 😊
 
-Beyond my regular workdays, I take pride in giving back to the tech community. I host a bi-weekly show, [WorkplaceDudes](https://workplacedudes.nl), where I share insights and trends related to the modern workplace. I also co-host the [Microsoft 365 Modern Management Meetup](https://www.meetup.com/Sydney-CBD-Microsoft-Modern-Management-Meetup/), a platform that brings together like-minded professionals to discuss the latest in Microsoft 365 management. I'm an active participant in [Experts Live Netherlands](https://www.expertslive.nl), where I sit on the Program Panel and serve as the Speaker Manager. 
+I'm an Microsoft Intune and Identity & Access MVP, Microsoft Certified Trainer (MCT). I live in Nieuwkoop, the Netherlands. Specialized in Microsoft Intune,  Entra ID, Microsoft 365, and Windows clients.
 
-In 2020, I embarked on a new journey as an author. My first book, Microsoft Exam MD-100 Windows 10 Certification Guide, is now available. Writing this guide was a fulfilling experience as it allowed me to share my knowledge on a larger scale. If you'd like to connect, don't hesitate to reach out. 
+In 2020, my first book came available at Packt. It's a Microsoft Exam MD-100 Windows 10 Certification Guide and you can buy it in the links below.
+Since 2022, I founded the bi-weekly Youtube show, called the WorkplaceDudes. I do this project with two of my colleagues.
 
-I'm always open to new opportunities and collaborations.
+In my free time, I'm hunting for some geocaches around the Netherlands and beyond the borders with my girlfriend and daughter and other geocache-friends.
 
-<!--
-**BurgerhoutJ/burgerhoutj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests are especially Microsoft technologies. I am also interested in photography, summer holidays, wintersport, and social media.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’d like to get in touch, feel free to say hello through any of the social links.
