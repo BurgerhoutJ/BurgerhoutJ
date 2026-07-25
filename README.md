@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hey there, 
-
 I'm Jeroen, and working with Microsoft software since NT 4.0 and Windows 95. So, yeah… that old. 😊
 
 I'm an Microsoft Intune MVP, Microsoft Certified Trainer (MCT). I live in Nieuwkoop, the Netherlands. Specialized in Microsoft Intune, Entra ID, Microsoft 365, and Windows clients.
