@@ -6,10 +6,13 @@ I'm an Microsoft Intune MVP, Microsoft Certified Trainer (MCT). I live in Nieuwk
 
 Beyond my regular workdays, I take pride in giving back to the tech community. Furthermore I'm member of the Experts Live Netherlands team and co-host the Microsoft 365 Modern Management meetup.
 
-[![Website](https://img.shields.io/badge/🌐_Website-burgerhout.org-blue?style=flat-square)](https://burgerhout.org)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@jeroen.burgerhout.org-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jeroen.burgerhout.org)
-[![Twitter](https://img.shields.io/badge/X-@BurgerhoutJ-black?style=flat-square&logo=x)](https://twitter.com/BurgerhoutJ)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft-Intune_MVP-0078D4?style=flat-square&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/8275db10-5372-4514-9b06-9d10185327b2)
+[![Website](https://img.shields.io/badge/WEBSITE-burgerhout.org-blue?style=for-the-badge)](https://burgerhout.org)
+[![Bluesky](https://img.shields.io/badge/BLUESKY-@jeroen.burgerhout.org-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/jeroen.burgerhout.org)
+[![Twitter](https://img.shields.io/badge/X-@BurgerhoutJ-black?style=for-the-badge&logo=x)](https://twitter.com/BurgerhoutJ)
+[![Microsoft MVP](https://img.shields.io/badge/MICROSOFT-INTUNE_MVP-0078D4?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/8275db10-5372-4514-9b06-9d10185327b2)
+
+![GitHub followers](https://img.shields.io/github/followers/BurgerhoutJ?style=for-the-badge&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=BurgerhoutJ&style=for-the-badge&label=Profile%20views)
 
 ## 🚀 Featured Repositories
 
