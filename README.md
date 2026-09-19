@@ -6,6 +6,12 @@ I'm an Microsoft Intune MVP, Microsoft Certified Trainer (MCT). I live in Nieuwk
 
 Beyond my regular workdays, I take pride in giving back to the tech community. Furthermore I'm member of the Experts Live Netherlands team and co-host the Microsoft 365 Modern Management meetup.
 
-If you'd like to connect, don't hesitate to reach out. I'm always open to new opportunities and collaborations.
+## 🚀 Featured Repositories
 
-If you’d like to get in touch, feel free to say hello through any of the social links.
+- 🛠️ **[scripts](https://github.com/BurgerhoutJ/scripts)** — PowerShell scripts for Intune, Entra ID, and Microsoft 365 admin tasks
+- 🎤 **[sessions](https://github.com/BurgerhoutJ/sessions)** — Slide decks from my speaking engagements
+- 📰 **[daily-intune-docs-reporter](https://github.com/BurgerhoutJ/daily-intune-docs-reporter)** — Daily GitHub Action that tracks Microsoft's Intune, Windows Autopilot, and Entra "what's new" docs and posts changes as a digest — see it live at [reporter.burgerhout.org](https://reporter.burgerhout.org)
+- 🎙️ **[betweendeployments.show](https://github.com/BurgerhoutJ/betweendeployments.show)** — Source for *Between Deployments*, my podcast on modern workplace IT (Intune, Entra ID, Windows 365) — auto-publishes new episodes from the [Substack RSS feed](https://betweendeployments.show)
+
+
+If you'd like to **[connect](https://burgerhou.tj/connect)**, don't hesitate to reach out. I'm always open to new opportunities and collaborations.
